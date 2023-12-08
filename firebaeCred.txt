@@ -1,0 +1,10 @@
+firebaseConfig = {
+  apiKey: "AIzaSyAeVxMEE7BM5tdELx9jsQwNDe4bVjCDTl0",
+  authDomain: "emeter-image-transmission.firebaseapp.com",
+  databaseURL: "https://emeter-image-transmission-default-rtdb.firebaseio.com",
+  projectId: "emeter-image-transmission",
+  storageBucket: "emeter-image-transmission.appspot.com",
+  messagingSenderId: "516882488455",
+  appId: "1:516882488455:web:f410318990794dc6a2ac22",
+  measurementId: "G-VXPMTX2QRP"
+};
